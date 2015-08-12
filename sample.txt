@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 pearlpamfiloooooo
+=======
+helloworld
+lalalalla
+hahahahahah
+lololololo
+>>>>>>> 8f06de2529271168355226cad440031768e0deaf
